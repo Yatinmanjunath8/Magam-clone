@@ -653,6 +653,5 @@ canvas1()
       end:'bottom 510px',
       scroller:'#main',
       scrub:.5,
-      markers:true
     }
   })
